@@ -22,11 +22,11 @@ h1 {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
     }
     .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #d8d0f5;
+    color:#130546;
     }
     .topnav a.active {
     background-color: #8972df;
